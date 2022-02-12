@@ -1,0 +1,16 @@
+type: marketplace
+title: Java podstawy lista 2
+language: Polish
+summary: |-
+  Lista zadań obejmuje materiał z natępujących obszarów:
+  - Klasa String - użycie przykładowych metod
+  - Regex - wyrażenia regularne
+  - Tablice
+  - Klasy i obiekty
+  - Klasy dotyczące daty
+programming_language: Java
+content:
+- lesson1
+- lesson2
+- lesson3
+- lesson4

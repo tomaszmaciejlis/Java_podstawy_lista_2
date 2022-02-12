@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: test/Tests.java
+  visible: false
+- name: src/Computer.java
+  visible: true
+- name: src/Memory.java
+  visible: true
+- name: src/Disc.java
+  visible: true
+- name: src/Processor.java
+  visible: true

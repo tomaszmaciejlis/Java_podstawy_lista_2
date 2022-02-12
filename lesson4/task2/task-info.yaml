@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+- name: test/Tests.java
+  visible: false
+- name: src/pl/my/library/Library.java
+  visible: true
+- name: src/pl/my/library/Author.java
+  visible: true
+- name: src/pl/my/library/Reader.java
+  visible: true
